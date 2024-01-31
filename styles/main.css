@@ -1,0 +1,32 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+    
+
+.flexbox {
+    display: flex;
+    flex-direction: row;
+    /* border: solid red; */
+    justify-content: center;
+}
+
+.venues {
+    margin: 3%;
+}
+
+.bands {
+    margin: 3%;
+}
+
+.bookingList {
+    list-style: none;
+}
+
+.bookings {
+    display: flex;
+    justify-content: center;
+}
+
+.main-heading {
+    text-align: center;
+}
